@@ -7,7 +7,7 @@ beta versions  currently supported:
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.1.1   |  Supported         |
-| 1.0     |  Supported         |
+| 1.0     |  Support ended     |
 |         |                    |
 |         |                    |
 |         |                    |
