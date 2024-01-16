@@ -1,9 +1,9 @@
 @echo off
 cls
-echo © Batchproducts 2023
+echo (c) Batchproducts 2023
 echo CRACKED TERMINAL
 :loop
-set /p command="?:\CRACKED.CMD>"
+set /p command="CMD>"
 %command%
 goto loop
 
