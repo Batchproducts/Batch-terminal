@@ -3,7 +3,7 @@ cls
 echo (c) Batchproducts 2023 CRACKED TERMINAL
 echo ---------------------------
 :loop
-set /p command="CMD>"
+set /p command=">"
 %command%
 goto loop
 
