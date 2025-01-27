@@ -1,3 +1,4 @@
+REM why you looking at me?
 @echo off
 :main
 cls
