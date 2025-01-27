@@ -1,4 +1,5 @@
 @echo off
+:main
 cls
 echo (c) Batchproducts 2023 CRACKED TERMINAL
 echo.
@@ -10,5 +11,10 @@ set /p command=">"
 goto loop
 
 :er
-echo LOL YOU FOUND ME
-goto loop
+echo ERROR:
+echo 00x000
+echo.
+echo USER REQUESTED ERROR
+pause
+cls
+goto main
