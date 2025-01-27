@@ -8,9 +8,7 @@ beta versions  currently supported:
 | ------- | ------------------ |
 | 1.1     |  Supported         |
 | 1.0     |  Support ended     |
-|         |                    |
-|         |                    |
-|         |                    |
+
 
 ## Reporting a Vulnerability
 
